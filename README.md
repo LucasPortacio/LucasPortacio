@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucasPortacio
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Analysis and Data Science
+- 🌱I am currently working as a Senior M.I.S Analyst at MF and also learning how to develop myself as a Data Analyst with an emphasis on Python.
 
 
 <!---
